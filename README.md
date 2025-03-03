@@ -87,4 +87,5 @@
 
 </p>
 
-![Snake animation](https://github.com/thiagogementii/thiagogementii/blob/output/dist/github-snake.svg)
+![Snake animation](https://github.com/thiagogementii/thiagogementii/blob/output/dist/github-snake-dark.svg?palette=github-dark)
+
