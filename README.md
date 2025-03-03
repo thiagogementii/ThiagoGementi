@@ -89,11 +89,10 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api?username=thiagogementii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 </p>
 
 #### Me encontre por aqui! 🌍
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin)](https://www.linkedin.com/in/thiago-gementi-42a55b284/)
 
-![Snake animation](https://github.com/thiagogementii/thiagogementii/blob/output/dist/github-snake-dark.svg?palette=github-dark)
+![Snake animation](https://github.com/thiagogementii/thiagogementii/blob/output/github-contribution-grid-snake.svg)
 
