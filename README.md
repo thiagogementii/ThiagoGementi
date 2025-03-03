@@ -7,6 +7,7 @@
 
 ### 🤖 Linguagens e Tecnologias
 
+<p align="left">
 <img 
     align="left" 
     alt="HTML"
@@ -68,13 +69,13 @@
     title="Linux"
     width="30px" style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+</p>
 
-<br/>
-<br/>
+</br>
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -89,16 +90,16 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api?username=thiagogementii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-</p>
+</div>
 
----
+</br>
 
 ### 🌍 Me encontre por aqui!  
-<p>
+<div align="center">
   <a href="https://www.linkedin.com/in/thiago-gementi-42a55b284/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin" />
   </a>
-</p>
+</div>
 
 ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
 
