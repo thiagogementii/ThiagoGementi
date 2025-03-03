@@ -63,6 +63,11 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img align="left"
+    alt="Linux"
+    title="Linux"
+    width="30px" style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 
 <br/>
 <br/>
@@ -86,6 +91,9 @@
   />
 
 </p>
+
+#### Me encontre por aqui! 🌍
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin)](https://www.linkedin.com/in/thiago-gementi-42a55b284/)
 
 ![Snake animation](https://github.com/thiagogementii/thiagogementii/blob/output/dist/github-snake-dark.svg?palette=github-dark)
 
