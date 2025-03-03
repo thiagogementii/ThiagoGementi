@@ -94,5 +94,5 @@
 #### Me encontre por aqui! 🌍
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin)](https://www.linkedin.com/in/thiago-gementi-42a55b284/)
 
-![Snake animation](https://github.com/thiagogementii/thiagogementii/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
 
