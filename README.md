@@ -75,9 +75,14 @@
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img alt="Top Langs" height="150" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogementii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-  <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=thiagogementii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<div align="left">
+  <img alt="Top Langs"
+      height="150"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogementii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img alt="GitHub Stats"
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=thiagogementii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 </div>
 
 ---
