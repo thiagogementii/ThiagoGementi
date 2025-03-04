@@ -76,36 +76,16 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogementii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api?username=thiagogementii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  <img alt="Top Langs" height="150" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogementii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=thiagogementii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 </div>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
+---
 
 ### 🌍 Me encontre por aqui!  
-  <a href="https://www.linkedin.com/in/thiago-gementi-42a55b284/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/thiago-gementi-42a55b284/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin" />
+</a>
 
 
 ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
