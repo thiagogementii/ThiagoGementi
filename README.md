@@ -91,7 +91,3 @@
 <a href="https://www.linkedin.com/in/thiago-gementi-42a55b284/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin" />
 </a>
-
-
-![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
-
